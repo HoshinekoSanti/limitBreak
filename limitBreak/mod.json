@@ -2,5 +2,10 @@
   "id": "limitBreak",
   "name": "GMS2 Limit Breaking",
   "updateUrl": "https://github.com/HoshinekoSanti/limitBreak.git",
-  "files": []
+  "files": [
+    {
+      "path": "Data/Xml/table/feature.xml",
+      "hash": "e21210d5111b1181f961744a9ce59f599020dbec52920dfe7f98e5d263c02f70"
+    }
+  ]
 }
