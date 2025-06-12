@@ -1,0 +1,19 @@
+{
+  "id": "limitBreak",
+  "name": "GMS2 Limit Breaking",
+  "updateUrl": "https://github.com/HoshinekoSanti/limitBreak.git",
+  "files": [
+    {
+      "path": "Data/Xml/string/en/itemname.xml",
+      "hash": "64dd8c7032bd3207af7a2659e744899fcba8d7fb6a053e013171b0168a6120f1"
+    },
+    {
+      "path": "Data/Xml/string/en/itemnameplural.xml",
+      "hash": "f1c534797d22d9134d4a284a820639f09c3986dd0ff3308f189ea37be07781aa"
+    },
+    {
+      "path": "Data/Xml/table/feature.xml",
+      "hash": "db2d1dd62dfb52b60b59ea9a50c37594be9313ea3e80940bf061b428881760f0"
+    }
+  ]
+}
