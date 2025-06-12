@@ -458,7 +458,7 @@
 	<feature name="AdventureLevel" KR="37" JP="29" CN="37" NA="29" TH="1" TW="99" />
 	<feature name="AdventureLevel02" KR="47" JP="33" CN="49" NA="40" TH="99" TW="99" />
 	<feature name="NaColorSystem" KR="99" JP="29" CN="99" NA="29" TH="1" TW="99" />
-	<feature name="EnableCustomColor" KR="1" JP="99" CN="1" NA="99" TH="99" TW="99" />
+	<feature name="EnableCustomColor" KR="1" JP="99" CN="1" NA="1" TH="99" TW="99" />
 	<feature name="SurvivalObserver" KR="37" JP="99" CN="38" NA="30" TH="1" TW="99" />
 	<feature name="AchieveReward01" KR="99" JP="29" CN="99" NA="29" TH="1" TW="99" />
 	<feature name="AchieveRewardMakeUp" KR="38" JP="29" CN="38" NA="29" TH="1" TW="99" />
